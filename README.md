@@ -8,8 +8,17 @@ If you found any of our papers useful, please cite via the below:
 @misc{citekey,
   author       = "Modulus Labs",
   title        = "The Cost of Intelligence: Proving Machine Learning Inference with Zero-Knowledge",
-  howpublished = "\url{https://drive.google.com/file/d/1tylpowpaqcOhKQtYolPlqvx6R2Gv4IzE/view?usp=sharing}",
+  howpublished = "\url{https://github.com/Modulus-Labs/Papers/blob/master/Cost_Of_Intelligence.pdf}",
   month        = "Jan",
   year         = "2023"
+}
+
+/// --- Scaling Intelligence (Remainder paper 1) ---
+@misc{citekey,
+  author       = "Modulus Labs",
+  title        = "Scaling Intelligence: Verifiable Decision Forest Inference with Remainder",
+  howpublished = "\url{https://github.com/Modulus-Labs/Papers/blob/master/remainder-paper.pdf}",
+  month        = "Feb",
+  year         = "2024"
 }
 ```
